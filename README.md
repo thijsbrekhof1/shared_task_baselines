@@ -1,6 +1,7 @@
 # Documentation for running the baseline systems – Group 04
 
 ## Step 1: running the models themselves:
+Run the scripts for each model by downloading the data files from https://github.com/mbzuai-nlp/SemEval2024-task8#data_format and running the models as shown below.
 
 ### Task A monolingual:
 
